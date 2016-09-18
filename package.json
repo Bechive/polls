@@ -1,0 +1,8 @@
+{
+  "name": "Polls",
+  "description": "Makes like a poll and exists",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
