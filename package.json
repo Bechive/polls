@@ -3,8 +3,14 @@
   "description": "Makes like a poll and exists",
   "version": "0.0.1",
   "dependencies": {
-    "node": "0.0.0",
     "express": "^4.14.0",
     "mongoose": "^4.6.0"
+  },
+  "engines": {
+    "node": "6.3.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
   }
 }
